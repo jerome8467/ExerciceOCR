@@ -12,5 +12,5 @@ jourDeDepart += joursDansSemaine;
 
 
 // Afficher le résultat 
-Console.WriteLine("Il y a " + joursDansSemaine + " jours dans la semaine.");
-Console.WriteLine("Votre jour de départ du mois est : " + jourDeDepart);
+Console.WriteLine($"Il y a {joursDansSemaine} jours dans la semaine.");
+Console.WriteLine($"Votre jour de départ du mois est : {jourDeDepart}");

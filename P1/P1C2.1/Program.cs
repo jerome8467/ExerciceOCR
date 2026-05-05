@@ -7,6 +7,6 @@ int epargne = 3000;
 int prime = 500;
 
 // Afficher le résultat
-Console.WriteLine("Votre allocation courante est de " + allocationCourante);
-Console.WriteLine("Le montant de votre épargne est de " + epargne);
-Console.WriteLine("Vous bénéficiez d'une prime de " + prime);
+Console.WriteLine($"Votre allocation courante est de {allocationCourante}");
+Console.WriteLine($"Le montant de votre épargne est de {epargne}");
+Console.WriteLine($"Vous bénéficiez d'une prime de {prime}");
