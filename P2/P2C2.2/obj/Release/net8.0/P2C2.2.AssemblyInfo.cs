@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2C2.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f97dd6311c6ea283894d848512ded6ca71fc3512")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feee14ef81697d43bdd3fab2272c5eb68547e2d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2C2.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2C2.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
