@@ -14,6 +14,6 @@ public class BonjourConditionel
     /// <param name="destinataire">Personne à qui on dit bonjour</param>
     public static void DireBonjour(string destinataire)
     {
-        Console.WriteLine("Bonjour " + destinataire + "!");
+        Console.WriteLine($"Bonjour {destinataire}!");
     }
 }
