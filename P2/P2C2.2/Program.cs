@@ -29,7 +29,6 @@ switch (couleurChoisie)
     case Couleur.Bleu:
         Console.WriteLine("La couleur est bleue");
         break;
-
     case Couleur.Vert:
         Console.WriteLine("La couleur est verte");
         break;
