@@ -1,0 +1,15 @@
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\bin\Debug\net8.0\P2C3.exe
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\bin\Debug\net8.0\P2C3.deps.json
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\bin\Debug\net8.0\P2C3.runtimeconfig.json
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\bin\Debug\net8.0\P2C3.dll
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\bin\Debug\net8.0\P2C3.pdb
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.AssemblyInfoInputs.cache
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.AssemblyInfo.cs
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.csproj.CoreCompileInputs.cache
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.sourcelink.json
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.dll
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\refint\P2C3.dll
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.pdb
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\P2C3.genruntimeconfig.cache
+D:\Dossier GIT\MesProjets\Exercice\P2\P2C3\obj\Debug\net8.0\ref\P2C3.dll

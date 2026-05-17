@@ -1,0 +1,15 @@
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\bin\Debug\net8.0\P3C8.exe
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\bin\Debug\net8.0\P3C8.deps.json
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\bin\Debug\net8.0\P3C8.runtimeconfig.json
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\bin\Debug\net8.0\P3C8.dll
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\bin\Debug\net8.0\P3C8.pdb
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfoInputs.cache
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfo.cs
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.csproj.CoreCompileInputs.cache
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.sourcelink.json
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.dll
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\refint\P3C8.dll
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.pdb
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\P3C8.genruntimeconfig.cache
+D:\Dossier GIT\MesProjets\Exercice\P3\P3C8\obj\Debug\net8.0\ref\P3C8.dll

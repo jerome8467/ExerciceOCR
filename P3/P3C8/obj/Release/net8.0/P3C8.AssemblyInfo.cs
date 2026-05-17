@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P3C8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0ab106f162991aa8a5bb10ca5e64d36cb49282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+265b4d74df8d223f9daeab0af8338cc013360ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("P3C8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P3C8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

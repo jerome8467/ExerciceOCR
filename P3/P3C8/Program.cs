@@ -1,2 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using GestionCompte;
+using Microsoft.VisualBasic;
+
+new Run().StartProgram();
+
+
+
+
+
